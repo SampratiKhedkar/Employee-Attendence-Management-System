@@ -16,8 +16,3 @@ To run this project on your local machine, ensure you have the following install
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 8 or later
 - [Git](https://git-scm.com/)
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/SampratiKhedkar/Employee-Attendence-Management-System
-cd Employee-Attendence-Management-System
